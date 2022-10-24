@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=290&section=header&text=S.%20Shim&fontSize=50)
-
-
-[![태그이름](https://img.shields.io/badge/R-#FFFFFF?style=flat-square&logo=R&logoColor=#276DC3)]
+[![SS](https://img.shields.io/badge/RStudio-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb)
