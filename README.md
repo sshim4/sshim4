@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 ## :sparkling_heart: Tech :sparkling_heart:
 
 [![SS](https://img.shields.io/badge/RStudio-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb) ![SS](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![JS](https://img.shields.io/badge/Latex-008080?style=flat-square&logo=Latex&logoColor=black)
+  
+  
+  
+ 
 
 ## :school: Research Interests :pencil2:
 
