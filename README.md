@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=290&section=header&text=S.%20Shim&fontSize=50)
 
 
-[![SS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![R](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
