@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 <br>
   
-## :school: Research Interests :pencil2:
+## :school: Statistical Analytical skills :pencil2:
 <br>
 <br>
 <br>
