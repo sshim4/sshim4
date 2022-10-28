@@ -36,7 +36,7 @@ $$\textcolor{red}{\text{Hello World}}$$
   
 $$\textcolor{pink}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\text{Hello World}}$$
   
-$$[\color{blue}\fcolorbox{white}{red}{Kaplan}]()$$  
+$$[\color{blue}\fcolorbox{white}{red}{Kaplan}](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb)$$  
   
   
 ## :bus: Today
