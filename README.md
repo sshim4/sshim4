@@ -1,5 +1,6 @@
-## Hi there, Welcome to my Github✨
-## Profile has been editing.
+## ✨Hi there, Welcome to my Github✨
+
+$$\color{blue}\fcolorbox{white}{red}{Profile has been editing.}$$
 
 <Br>
 <br>
