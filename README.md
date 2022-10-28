@@ -1,11 +1,15 @@
 ## ✨Hi there, Welcome to my Github✨
 
+![Hi](https://capsule-render.vercel.app/api?type=soft)
+
+
 $$\color{blue}\fcolorbox{white}{yellow}{Sorry, my Github has been editing.}$$
+
+
+
 
 <Br>
 <br>
-
-![Hi there, Welcome to my Github](https://capsule-render.vercel.app/api?text=Hi there, Welcome to my Github&animation=fadeIn)
 
 <!--
 **sshim4/sshim4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
