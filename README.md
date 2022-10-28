@@ -30,15 +30,14 @@ Here are some ideas to get you started:
 <br>
   
 ## :school: Statistical Analytical skills :pencil2:
-  [- text in red Kaplan-Meier Analysis](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb)
- 
+  
+    ```diff
+  [- Kaplan-Meier Analysis](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb)
+ ```
+  
   <a href="https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb" style="color: black">Kaplan-Meier Analysis</a>
   
  
-<br>
-  <p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
   
   ```diff
 - text in red
