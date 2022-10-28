@@ -34,6 +34,9 @@ Here are some ideas to get you started:
   [Kaplan-Meier Analysis](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb)
  </span>
   
+  [normal link](https://www.google.com/)
+
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
   <br>
 <br>
   
