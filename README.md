@@ -1,4 +1,4 @@
-$$ ## Hi there, Welcome to my Github👋 $$ 
+## $$ Hi there, Welcome to my Github👋 $$ 
 ## Profile has been editing.
 
 <Br>
