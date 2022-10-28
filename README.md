@@ -1,7 +1,7 @@
 ## Hi there, Welcome to my Github👋
 ## Profile has been editing.
 
-$$ ##\color{blue}\fcolorbox{white}{yellow}{Hi there, Welcome to my Github ⚡}$$
+$$ \color{blue}\fcolorbox{white}{yellow}{Hi there, Welcome to my Github ⚡}$$
 
 <Br>
 <br>
