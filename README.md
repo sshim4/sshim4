@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
   
 ## :school: Statistical Analytical skills :pencil2:
-<br>
+<br>[![SS](logo=R&logoColor=white)](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb)
 <br>
 <br>
   
