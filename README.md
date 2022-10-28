@@ -36,7 +36,7 @@ $$\textcolor{red}{\text{Hello World}}$$
   
 $$\textcolor{pink}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\text{Hello World}}$$
   
-$$[\color{blue}\fcolorbox{white}{red}{Kaplan}]$$  
+$$[\color{blue}\fcolorbox{white}{red}{Kaplan}]()$$  
   
   
 ## :bus: Today
