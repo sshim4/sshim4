@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [Kaplan](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb)
   
 $$\textcolor{red}{\text{Hello World}}$$
-
+$$\textcolor{pink}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\text{Hello World}}$$
   
 ## :bus: Today
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsshim4&count_bg=%23BCE79B&title_bg=%230F00BA&icon=&icon_color=%237A1414&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
