@@ -30,15 +30,9 @@ Here are some ideas to get you started:
 <br>
   
 ## :school: Statistical Analytical skills :pencil2:
-[Kaplan](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb)
-  
-$$\textcolor{red}{\text{Hello World}}$$
-  
-$$\textcolor{pink}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\text{Hello World}}$$
-  
-$$[\color{blue}\fcolorbox{white}{red}{Kaplan}](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb)$$  
-  
-[<span style="color:red">**HELP**</span>](https://www.aihw.gov.au/suicide-self-harm-monitoring/research-information/crisis-support)
+<!-- [Kaplan](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb) -->
+
+[<span style="color:red">**HELP**</span>](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_3.%20Nonparametric%20Survival%20Curve%20Estimation.ipynb)
   
   
   
