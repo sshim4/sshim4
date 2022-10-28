@@ -30,22 +30,14 @@ Here are some ideas to get you started:
 <br>
   
 ## :school: Statistical Analytical skills :pencil2:
-  
-    ```diff
-  [- Kaplan-Meier Analysis](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb)
+
+  [Kaplan-Meier Analysis](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb)
  ```
   
-  <a href="https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb" style="color: black">Kaplan-Meier Analysis</a>
+  <a href="https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb" style="color: white">Kaplan-Meier Analysis</a>
   
  
-  
-  ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+
   
 ## :bus: Today
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsshim4&count_bg=%23BCE79B&title_bg=%230F00BA&icon=&icon_color=%237A1414&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
