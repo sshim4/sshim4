@@ -36,5 +36,8 @@ $$\textcolor{red}{\text{Hello World}}$$
   
 $$\textcolor{pink}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\text{Hello World}}$$
   
+$$\color{blue}\fcolorbox{white}{red}{[Kaplan]}$$  
+  
+  
 ## :bus: Today
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsshim4&count_bg=%23BCE79B&title_bg=%230F00BA&icon=&icon_color=%237A1414&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
