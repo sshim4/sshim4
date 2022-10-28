@@ -1,7 +1,7 @@
 ## ✨Hi there, Welcome to my Github✨
-
+<!-- 
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Hello%World!)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!) -->
 
 $$\color{blue}\fcolorbox{white}{yellow}{Sorry, my Github has been editing.}$$
 
