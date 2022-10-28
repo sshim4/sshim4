@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [<span style="color:red">**Time-Series Analysis,**</span>](https://github.com/sshim4/TIme-Series-Analysis)
   
 
-## :school: Analytics subjects :pencil2:
+## :computer: Analytics subjects :abacus:
 [**A/B Test,** ](https://)
   
   
