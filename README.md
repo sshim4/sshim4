@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 [<span style="color:red">**Beta Regression,**</span>](https://github.com/sshim4)
 
-##Non parametric analysis
+### Non parametric analysis
 
 [<span style="color:red">**Quantile Regression,**</span>](https://github.com/sshim4)
 [<span style="color:red">**Expectile Regression,**</span>](https://github.com/sshim4)
