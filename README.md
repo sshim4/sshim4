@@ -35,7 +35,8 @@ Here are some ideas to get you started:
   
 ## :school: Statistical Analytical skills :pencil2:
 
-[<span style="color:red">**Kaplan-Meier Model,**</span>](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_3.%20Nonparametric%20Survival%20Curve%20Estimation.ipynb) $\hspace{2cm}$  
+  
+### :white_heart: Parametric analysis
 
 [<span style="color:red">**Time-Series Analysis,**</span>](https://github.com/sshim4/TIme-Series-Analysis)
 
@@ -45,12 +46,12 @@ Here are some ideas to get you started:
 
 [<span style="color:red">**Beta Regression,**</span>](https://github.com/sshim4)
 
-### Non parametric analysis
+### :white_heart: Non parametric analysis
 
 [<span style="color:red">**Quantile Regression,**</span>](https://github.com/sshim4)
 [<span style="color:red">**Expectile Regression,**</span>](https://github.com/sshim4)
 
-
+[<span style="color:red">**Kaplan-Meier Model,**</span>](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_3.%20Nonparametric%20Survival%20Curve%20Estimation.ipynb) $\hspace{2cm}$  
 
 ## :computer: Analytics subjects :abacus:
 [**A/B Test,** ](https://)
