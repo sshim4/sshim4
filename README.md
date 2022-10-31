@@ -34,14 +34,22 @@ Here are some ideas to get you started:
 <br>
   
 ## :school: Statistical Analytical skills :pencil2:
-<!-- [Kaplan](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_4.%20Nonparametric%20Comparison%20of%20Survival%20Distributions.ipynb) -->
 
 [<span style="color:red">**Kaplan-Meier Model,**</span>](https://github.com/sshim4/Survival-Analysis/blob/main/Applied%20Survival%20Analysis%20Using%20R_3.%20Nonparametric%20Survival%20Curve%20Estimation.ipynb) $\hspace{2cm}$  
+
 [<span style="color:red">**Time-Series Analysis,**</span>](https://github.com/sshim4/TIme-Series-Analysis)
-  
+
+[<span style="color:red">**Logistic Regression,**</span>](https://github.com/sshim4)
+
+[<span style="color:red">**Poission Regression,**</span>](https://github.com/sshim4)
+
+[<span style="color:red">**Beta Regression,**</span>](https://github.com/sshim4)
+
+
 
 ## :computer: Analytics subjects :abacus:
 [**A/B Test,** ](https://)
+[**Credit Risk Modeling,** ](https://)
   
   
   
