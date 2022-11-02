@@ -14,7 +14,7 @@ $$\color{blue}\fcolorbox{white}{yellow}{Sorry, my Github has been editing.}$$
 <!--
 **sshim4/sshim4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:Cancel changes
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 ## :computer: Analytics subjects :abacus:
 [**A/B Test,** ](https://)
-[**Credit Risk Modeling,** ](https://)
-  
-  
+[**Probability of Default (PD) Modeling,** ](https://)
+[**Loss given default (LGD) Modeling,** ](https://)  
+[**Exposure at default (EAD) Modeling,** ](https://)    
   
   
 ## :bus: Today
