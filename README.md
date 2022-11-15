@@ -57,7 +57,9 @@ Here are some ideas to get you started:Cancel changes
 [**A/B Test,** ](https://)
 [**Probability of Default (PD) Modeling,** ](https://)
 [**Loss given default (LGD) Modeling,** ](https://)  
-[**Exposure at default (EAD) Modeling,** ](https://)    
+[**Exposure at default (EAD) Modeling,** ](https://)  
+  
+[**Cox Proportional Hazards Model,** ](https://github.com/sshim4/Survival-Analysis/blob/main/Survival%20Analysis%20Part%2011%20Cox%20Proportional%20Hazards%20Model%20in%20R%20with%20RStudio_%20Part%2012%20Checking%20Cox%20PH%20Model%20Assumptions%20in%20R%20with%20RStudio.ipynb)  
   
   
 ## :bus: Today
