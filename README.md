@@ -6,6 +6,8 @@
 $$\color{blue}\fcolorbox{white}{yellow}{Sorry, my Github has been editing.}$$
 
 
+[<span style="color:red">**Data lab SOOMSOOM **</span>](https://blog.naver.com/soomsoomlab)
+
 
 
 <Br>
