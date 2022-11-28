@@ -3,10 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Hello%World!)
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!) -->
 
+
 $$\color{blue}\fcolorbox{white}{yellow}{Sorry, my Github has been editing.}$$
 
 
-[<span style="color:red">**Data lab SOOMSOOM **</span>](https://blog.naver.com/soomsoomlab)
+[<span style="color:red">**Visit my data lab SOOMSOOMLAB :desktop_computer:  **</span>](https://blog.naver.com/soomsoomlab)
 
 
 
