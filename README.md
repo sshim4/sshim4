@@ -7,8 +7,8 @@
 $$\color{blue}\fcolorbox{white}{yellow}{Sorry, my Github has been editing.}$$
 
 
-## 🖥️: Tech :My Data Lab:
-[<span style="color:red">**SOOMSOOMLAB ::  **</span>](https://blog.naver.com/soomsoomlab)
+## 🖥️ My Data Lab
+[<span style="color:red">SOOMSOOMLAB </span>](https://blog.naver.com/soomsoomlab)
 
 
 
